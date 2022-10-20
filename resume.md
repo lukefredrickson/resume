@@ -6,21 +6,28 @@ line. It is intended to be used for contact details -->
 - <lukeefredrickson@gmail.com>
 - [lukefredrickson.me](https://lukefredrickson.me)
 - [github.com/lukefredrickson](https://github.com/lukefredrickson)
-- Seattle, WA
+- Burlington, VT
 
 <!-- The paragraph after the h1 and ul and before the first h2 is optional. It
 is intended to be used for a short summary. -->
 
 ## Education
 
-### <span>**University of Vermont**</span> <span>*Degree Expected May 2022*</span>
+### <span>**University of Vermont**</span> <span>*Sept 2018 — May 2022*</span>
 
-<span>Bachelor of Science, Computer Science // Statistic Minor // Deans List: Fall 2018 — Fall 2021</span> <span>GPA: 3.96</span>
+ - Bachelor of Science, Computer Science&nbsp;&nbsp;&nbsp;//&nbsp;&nbsp;&nbsp;Statistics Minor
+ - Magna Cum Laude&nbsp;&nbsp;&nbsp;//&nbsp;&nbsp;&nbsp;Dean's List: All Semesters&nbsp;&nbsp;&nbsp;//&nbsp;&nbsp;&nbsp;GPA: 3.96
 
 ## Work Experience
 
 <!-- You have to wrap the "left" and "right" half of these headings in spans by
 hand -->
+### <span>**Service Writer & Bicycle Mechanic, *Old Spokes Home***</span> <span>*Sept 2022 — Present*</span>
+
+ - Diagnose and provide bike repair estimates for customers on the spot.
+ - Assist customers with a wide array of needs, communication abilities, and financial backgrounds.
+ - Manage storefront organization and inventory stock.
+
 ### <span>**Undergraduate Research Assistant, *Univesity of Vermont***</span> <span>*June 2020 — Dec 2021*</span>
 
  - Programed video games for academic research of social-ecological systems using Unity and C#.
@@ -33,9 +40,20 @@ hand -->
  - Integrated AWS data into front-end React components using Redux, AWS Lambda, and Serverless.
  - Utilized Jest to write unit tests and integration tests for production code.
 
-### <span>**Teaching Assistant: Data Structures & Algorithms, *University of Vermont***</span> <span>*Jan 2020 — May 2020*</span>
+## Leadership & Community Involvement
 
-- Assisted students with conceptual material and C++ programming for CS124: Data Structures and Algorithms.
+### <span>**UVM Bikes! (Student Bicycle Co-op)**</span>
+
+<span>*President*</span> <span>*May 2020 — May 2022*</span>
+
+ - Spearheaded club operations, communications, marketing, and execution of long-term club goals.
+ - Awarded Outstanding Student Organization and Sustained Commitement to Service awards in May 2022.
+ - Managed a team of over 30 student volunteers and a leadership team of 7 club officers.
+ - Volunteered 20+ hours per week fixing bicycles for UVM students, faculty, and staff.
+
+<span>*Treasurer*</span> <span>*May 2019 — May 2020*</span>
+
+ - Established close working relationships with local vendors and negotiated club budget increase of 68.5%.
 
 ## Projects
 
@@ -43,10 +61,6 @@ hand -->
 
  - Static website for the UVM student bicycle co-op, built with React, Gatsby, and headless WordPress.
  - UI Designed in Figma and implemented with Tailwind CSS.
-
-### <span>**UVM Cycling Team Website**</span> <span>*[cycling.w3.uvm.edu](https://cycling.w3.uvm.edu)*</span>
-
- - Static website for the UVM Cycling Team, built with React and Gatsby, and styled with vanilla CSS.
 
 ### <span>**Food Insecurity Dashboard**</span> <span>*[github.com/lukefredrickson/nfact-dashboard](https://github.com/lukefredrickson/nfact-dashboard)*</span>
 
@@ -60,22 +74,8 @@ hand -->
 
 ## Technical Skills
 
-<span>**Languages:** JavaScript, Python, HTML & CSS, C#, C++, C, R, Java</span>
+<span>**Languages:** JavaScript, TypeScript, Python, HTML & CSS, C#, C++, C, R, Java</span>
 
-<span>**Libraries & Frameworks:** React, Redux, GraphQL, Gatsby, Tailwind CSS, Jest, Serverless</span>
+<span>**Libraries & Frameworks:** React, GraphQL, Gatsby, Tailwind CSS, Jest, Serverless</span>
 
-<span>**Courses:** Data Structures & Algorithms, Algorithm Design & Analysis, Operating Systems, Software Engineering</span>
-
-## Leadership & Community Involvement
-
-### <span>**UVM Bikes! (Student Bicycle Co-op)**</span>
-
-<span>*President*</span> <span>*May 2019 — Present*</span>
-
- - Spearhead club operations, communications, marketing, and execution of long-term club goals.
- - Manage a team of over 30 student volunteers and a leadership team of 6 club officers.
- - Volunteer 10+ hours a week fixing bicycles for UVM students, faculty, and staff.
-
-<span>*Treasurer*</span> <span>*May 2019 — May 2020*</span>
-
- - Established close working relationships with local vendors and negotiated club budget increase of 68.5%.
+<span>**Relevant Courses:** Data Structures & Algorithms, Algorithm Design & Analysis, Software Engineering</span>
