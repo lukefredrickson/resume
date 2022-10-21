@@ -47,7 +47,7 @@ hand -->
 <span>*President*</span> <span>*May 2020 — May 2022*</span>
 
  - Spearheaded club operations, communications, marketing, and execution of long-term club goals.
- - Awarded *Outstanding Student Organization* and *Sustained Commitement to Service* awards in May 2022.
+ - Awarded *Outstanding Student Organization* and *Sustained Commitment to Service* awards in May 2022.
  - Managed a team of over 30 student volunteers and a leadership team of 7 club officers.
  - Volunteered 20+ hours per week fixing bicycles for UVM students, faculty, and staff.
 
